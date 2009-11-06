@@ -232,11 +232,11 @@ struct MANGOS_DLL_DECL npc_air_force_botsAI : public ScriptedAI
                         return;
 
                     // ROOFTOP only triggers if the player is on the ground
-                    if (!pPlayerTarget->IsFlying())
+                    /*if (!pPlayerTarget->IsFlying())
                     {
                         if (!pLastSpawnedGuard->getVictim())
                             pLastSpawnedGuard->AI()->AttackStart(pWho);
-                    }
+                    } */
                     break;
                 }
             }
