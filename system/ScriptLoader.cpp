@@ -372,7 +372,7 @@ void AddScripts()
     AddSC_mob_anubisath_sentinel();
     AddSC_instance_temple_of_ahnqiraj();
     AddSC_wailing_caverns();                               //Wailing caverns
-    AddSC_instance_wailing_caverns()
+    AddSC_instance_wailing_caverns();
     AddSC_zulfarrak();                                      //zulfarrak
 
     AddSC_ashenvale();
