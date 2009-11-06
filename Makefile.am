@@ -182,8 +182,6 @@ scripts/examples/example_gossip_codebox.cpp \
 scripts/examples/example_misc.cpp \
 scripts/kalimdor/ashenvale.cpp \
 scripts/kalimdor/azshara.cpp \
-scripts/kalimdor/azuremyst_isle.cpp \
-scripts/kalimdor/bloodmyst_isle.cpp \
 scripts/kalimdor/boss_azuregos.cpp \
 scripts/kalimdor/darkshore.cpp \
 scripts/kalimdor/desolace.cpp \
