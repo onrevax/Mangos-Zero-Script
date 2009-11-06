@@ -161,8 +161,6 @@ scripts/eastern_kingdoms/stratholme/boss_timmy_the_cruel.cpp \
 scripts/eastern_kingdoms/stratholme/instance_stratholme.cpp \
 scripts/eastern_kingdoms/stratholme/stratholme.cpp \
 scripts/eastern_kingdoms/stratholme/stratholme.h \
-scripts/eastern_kingdoms/uldaman/boss_ironaya.cpp \
-scripts/eastern_kingdoms/uldaman/uldaman.cpp \
 scripts/eastern_kingdoms/zulgurub/boss_arlokk.cpp \
 scripts/eastern_kingdoms/zulgurub/boss_gahzranka.cpp \
 scripts/eastern_kingdoms/zulgurub/boss_grilek.cpp \
@@ -230,7 +228,9 @@ scripts/kalimdor/temple_of_ahnqiraj/boss_viscidus.cpp \
 scripts/kalimdor/temple_of_ahnqiraj/instance_temple_of_ahnqiraj.cpp \
 scripts/kalimdor/temple_of_ahnqiraj/mob_anubisath_sentinel.cpp \
 scripts/kalimdor/temple_of_ahnqiraj/temple_of_ahnqiraj.h \
+scripts/kalimdor/wailing_caverns/def_wailing_caverns.h \
 scripts/kalimdor/wailing_caverns/instance_wailing_caverns.cpp \
+scripts/kalimdor/wailing_caverns/wailing_caverns.cpp \
 scripts/kalimdor/zulfarrak/zulfarrak.cpp \
 scripts/world/areatrigger_scripts.cpp \
 scripts/world/boss_emeriss.cpp \

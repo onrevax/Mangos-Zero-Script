@@ -113,8 +113,6 @@ extern void AddSC_boss_dathrohan_balnazzar();
 extern void AddSC_boss_order_of_silver_hand();
 extern void AddSC_instance_stratholme();
 extern void AddSC_stratholme();
-extern void AddSC_boss_ironaya();                           //uldaman
-extern void AddSC_uldaman();
 extern void AddSC_boss_arlokk();                            //zulgurub
 extern void AddSC_boss_gahzranka();
 extern void AddSC_boss_grilek();
@@ -173,6 +171,9 @@ extern void AddSC_boss_skeram();
 extern void AddSC_boss_twinemperors();
 extern void AddSC_mob_anubisath_sentinel();
 extern void AddSC_instance_temple_of_ahnqiraj();
+extern void AddSC_instance_wailing_caverns();               //Wailing caverns
+extern void AddSC_wailing_caverns();
+
 extern void AddSC_zulfarrak();                              //zulfarrak
 
 extern void AddSC_ashenvale();
@@ -308,8 +309,6 @@ void AddScripts()
     AddSC_boss_order_of_silver_hand();
     AddSC_instance_stratholme();
     AddSC_stratholme();
-    AddSC_boss_ironaya();                                   //uldaman
-    AddSC_uldaman();
     AddSC_boss_arlokk();                                    //zulgurub
     AddSC_boss_gahzranka();
     AddSC_boss_grilek();
@@ -368,6 +367,8 @@ void AddScripts()
     AddSC_boss_twinemperors();
     AddSC_mob_anubisath_sentinel();
     AddSC_instance_temple_of_ahnqiraj();
+    AddSC_wailing_caverns();                               //Wailing caverns
+    AddSC_instance_wailing_caverns()
     AddSC_zulfarrak();                                      //zulfarrak
 
     AddSC_ashenvale();
