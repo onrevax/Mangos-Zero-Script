@@ -113,6 +113,8 @@ extern void AddSC_boss_dathrohan_balnazzar();
 extern void AddSC_boss_order_of_silver_hand();
 extern void AddSC_instance_stratholme();
 extern void AddSC_stratholme();
+extern void AddSC_boss_ironaya();                           //uldaman
+extern void AddSC_uldaman();
 extern void AddSC_boss_arlokk();                            //zulgurub
 extern void AddSC_boss_gahzranka();
 extern void AddSC_boss_grilek();
@@ -281,6 +283,8 @@ void AddScripts()
     AddSC_boss_scorn();
     AddSC_boss_headless_horseman();
     AddSC_instance_scarlet_monastery();
+    AddSC_boss_ironaya();                                   //uldaman
+    AddSC_uldaman();
     AddSC_boss_darkmaster_gandling();                       //scholomance
     AddSC_boss_death_knight_darkreaver();
     AddSC_boss_theolenkrastinov();
