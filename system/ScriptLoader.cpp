@@ -141,7 +141,6 @@ extern void AddSC_eastern_plaguelands();
 extern void AddSC_elwynn_forest();
 extern void AddSC_hinterlands();
 extern void AddSC_ironforge();
-extern void AddSC_isle_of_queldanas();
 extern void AddSC_loch_modan();
 extern void AddSC_searing_gorge();
 extern void AddSC_silverpine_forest();
@@ -337,7 +336,6 @@ void AddScripts()
     AddSC_elwynn_forest();
     AddSC_hinterlands();
     AddSC_ironforge();
-    AddSC_isle_of_queldanas();
     AddSC_loch_modan();
     AddSC_searing_gorge();
     AddSC_silverpine_forest();
